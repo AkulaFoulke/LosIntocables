@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "interpolacion_newton", "interpolacion_newton\interpolacion_newton.vbproj", "{5B0BCE47-F538-4D33-BB7D-93C392F162D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B0BCE47-F538-4D33-BB7D-93C392F162D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0BCE47-F538-4D33-BB7D-93C392F162D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B0BCE47-F538-4D33-BB7D-93C392F162D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B0BCE47-F538-4D33-BB7D-93C392F162D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AAE5CBB-10FC-41ED-856E-FA1A2D3D844F}
+	EndGlobalSection
+EndGlobal
